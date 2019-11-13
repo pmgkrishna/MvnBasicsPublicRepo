@@ -1,0 +1,2 @@
+# MvnBasicsPublicRepo
+Maven poc
